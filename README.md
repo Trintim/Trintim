@@ -1,12 +1,4 @@
 ### Hi guys, I'm Victor or Trintim if you prefer ☕!!
-<link rel="stylesheet" href="devicon.min.css">
-
-<div>
-  <a href="https://github.com/Trintim">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trintim&layout=compact&langs_count=7&theme=darcula"/>
-</div>
-  
-  ##
   
 <div> 
   <a href = "mailto:victortrintim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
